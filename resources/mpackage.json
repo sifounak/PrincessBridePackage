@@ -8,8 +8,10 @@
   "homepageUrl": "",
   "publicFolders": "public",
   "privateFolders": "helpers",
-  "dependencies": {
+  "dependencies": [
+    {
       "name": "CommunityCompressionLib",
       "uuid": "16804d72-ecf7-4a38-9763-a683215f74ab"
     }
+  ]
 }
