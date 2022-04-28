@@ -1,12 +1,15 @@
 {
-  "name": "PrincessBride",
-  "version": "1.4.3",
-  "uuid": "fc1c7e3f-d625-405f-954a-27483655e5d0",
-  "description": "A package for fans of the Princess Bride movie.",
+  "name": "CoolNewPackage",
+  "version": "1.0.1",
+  "uuid": "fc1c7e3f-d625-405f-954a-27483655e5d1",
+  "description": "A cool new package for you to use.",
   "releaseCompatibility": "",
   "provider": "",
   "homepageUrl": "",
   "publicFolders": "public",
   "privateFolders": "helpers",
-  "dependencies": {}
+  "dependencies": {
+      "name": "CommunityCompressionLib",
+      "uuid": "16804d72-ecf7-4a38-9763-a683215f74ab"
+    }
 }
