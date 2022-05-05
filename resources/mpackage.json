@@ -5,7 +5,7 @@
   "description": "A package for fans of the Princess Bride movie.",
   "releaseCompatibility": "",
   "provider": "",
-  "homepageUrl": "",
+  "homepageUrl": "https://github.com/sifounak/PrincessBroPackage",
   "publicFolders": "public",
   "privateFolders": "helpers",
   "dependencies": [
