@@ -1,7 +1,7 @@
 function readagain()
 
-dialog = prependSpeaker("""As you wish...""","Grandpa");
-disp(newline() + dialog + newline());
+dialogStr = "Grandpa: ""As you wish...""";
+disp(newline() + dialogStr + newline());
 
 end
 
