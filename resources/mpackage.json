@@ -1,8 +1,9 @@
 {
   "name": "PrincessBride",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "id": "fc1c7e3f-d625-405f-954a-27483655e5d1",
-  "description": "A package for fans of the Princess Bride movie.",
+  "summary": "A package for fans of the Princess Bride movie",
+  "description": "A package containing some fun Princess Bride references.",
   "releaseCompatibility": "",
   "provider": "Adam Sifounakis",
   "homepageUrl": "https://github.com/sifounak/PrincessBridePackage",
